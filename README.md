@@ -15,8 +15,9 @@ En este repositorio encontramos el proyecto realizado bajo la dinámica de pair 
 
 El objetivo del proyecto era con unos datos elegidos por las parejas hacer una exploración de estos y presentarlos en Tableau. Por tanto centramos nuestro plan en mostrar estadísticas de algunos monumentos de europa respecto a sus visitantes al año e información sobre estos mismos.
 
+Podeis ver el proyecto aquí:
 
-(https://public.tableau.com/app/profile/mina4343/viz/Europaysusmonumentos/Dashboard4)
+https://public.tableau.com/app/profile/mina4343/viz/Europaysusmonumentos/Dashboard4
 
 
 # Info técnica :
